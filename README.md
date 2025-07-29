@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Feroz Ahmed
 
-🎯 Junior Laravel Developer | PHP | Livewire | Vue.js | MySQL
+🎯 Junior Laravel Developer | PHP | Laravel | Vue.js | MySQL
 
 🔭 I’m currently working on Inventory System, E-Commerce Site, and my Portfolio
 
