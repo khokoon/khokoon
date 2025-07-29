@@ -5,7 +5,7 @@
 🔭 I’m currently working on Inventory System, E-Commerce Site, and my Portfolio
 
 ## 🔧 Technologies & Tools
-Laravel, Livewire, Vue.js, MySQL, Git, Bootstrap
+Laravel, Vue.js, MySQL, Git, Bootstrap
 
 ## 🧩 Featured Projects
 - [Inventory System](https://github.com/khokoon/inventory)
